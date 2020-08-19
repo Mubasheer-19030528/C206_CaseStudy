@@ -1,3 +1,11 @@
+/**
+ * I declare that this code was written by me.
+ * I will not copy or allow others to copy my code.
+ * I understand that copying code is considered as plagiarism.
+ *
+ * 19022963, 13 Aug 2020 2:15:34 p.m.
+ */
+
 import java.util.ArrayList;
 
 public class Order {
