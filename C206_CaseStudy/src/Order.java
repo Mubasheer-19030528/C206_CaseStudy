@@ -15,9 +15,10 @@ public class Order {
 	private boolean takeaway;
 	private ArrayList<MenuItem> items; 
 
-	public Order(String username, String status,ArrayList<MenuItem> items ) {
+	public Order(String username, String status,boolean takeaway, ArrayList<MenuItem> items ) {
 		this.username=username;
 		this.status=status;
+		this.takeaway=takeaway;
 		this.items=items;
 		
 	}
